@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(145, 175, 89);
+    font-family: 'Lobster';
+}
+
+p {
+    margin: 14px;
+    font-family: 'Bodoni Moda';
+    font-weight: bolder;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 40px;
+}
+.survey {
+    padding: 7vw;
+    font-family: 'Bodoni Moda';
+    font-weight: bold;
+    background-color: rgba(114, 206, 122, 0.63);
+    border-radius: 25px;
+    margin: 10px;
+}
+button {
+    font-family: 'Bodoni Moda';
+    font-weight: bold;
+    border-radius: 2px;
+    background-color: rgba(34, 102, 148, 0.678);
+    color: white;
+    border: none;
+    width: 35vw;
+}
+footer {
+    margin: 7vw;
+}
